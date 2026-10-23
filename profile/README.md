@@ -1,6 +1,6 @@
 # StellarPOS
 
-**Open-source point of sale for shops that take payment on Stellar.** Cashiers
+**Point of sale for shops that take payment on Stellar.** Cashiers
 ring up sales, take cash, card, or a Stellar QR payment in any mix, and the
 sale completes by itself when the payment lands on-chain. No keys on the
 server, no copying transaction hashes, no "did it go through?".
